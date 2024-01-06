@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning life 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (unknown.3423n)
-- 
-# Project Title
 
-A brief description of what this project does and who it's for
 
 
 ## 🛠 Skills
