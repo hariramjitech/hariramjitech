@@ -1,6 +1,6 @@
-[!](https://capsule-render.vercel.app/api?type=waving&height=314&color=gradient&text=hariramji%2o%tech&fontColor=16&fontAlign=50&animation=fadeIn&reversal=true)
+[!]()
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=314&color=gradient&text=hariramji%2o%tech&fontColor=16&fontAlign=50&animation=fadeIn&reversal=true)
 
 - 👋 Hi, I’m @hariramji tech
 - 👀 I’m interested in coding 
