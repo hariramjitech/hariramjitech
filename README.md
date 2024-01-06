@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hariramjitec
+- 👋 Hi, I’m @hariramji tech
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning life 
 - 💞️ I’m looking to collaborate on ...
