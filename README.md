@@ -1,4 +1,4 @@
-<p align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=314&color=gradient&text=hariramji%2o%tech&fontColor=16&fontAlign=50&animation=fadeIn&reversal=true)
 
 ## 🛠 Skills
@@ -8,6 +8,6 @@ Javascript, HTML, CSS...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
