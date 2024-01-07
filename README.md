@@ -11,7 +11,7 @@ Javascript, HTML, CSS...
 <a href="https://thepiyushmalhotra.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">https://www.linkedin.com/in/hariramji-h-939173291/
+<a href="https://dev.to/thepiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
 <a href="https://twitter.com/Ipiyushmalhotra">
