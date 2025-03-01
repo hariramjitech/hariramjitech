@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=314&color=gradient&text=hariramji%2o%tech&fontColor=16&fontAlign=50&animation=fadeIn&reversal=true)
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+MERN,python,Javascript, HTML, CSS,java...
 
 ## 🔗links 
 <p align="center">
